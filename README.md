@@ -16,7 +16,7 @@ A Streamlit web application for the automatic analysis of seed amplification ass
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/pmartins2106/SAC-RHO-WEB.git
-   cd SAC-RHO
+   cd SAC-RHO-WEB
    ```
 
 2. **Create and activate a virtual environment (recommended):**
