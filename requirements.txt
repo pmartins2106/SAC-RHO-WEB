@@ -1,0 +1,10 @@
+beautifulsoup4==4.13.4
+matplotlib==3.10.3
+numpy==1.24.2
+scipy==1.15.3
+streamlit==1.41.1
+uncertainties==3.2.3
+odfpy
+pyarrow==15.0.0
+altair>=5.0
+pandas==1.5.3
